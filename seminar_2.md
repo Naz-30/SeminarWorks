@@ -21,9 +21,7 @@ git init
 
 
 ## Цитаты
-<<<<<<< HEAD
 ла - ла - ла
-=======
 Цитаты оформляются как в емейлах, с помощью символа `>`.
 
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
@@ -55,7 +53,6 @@ id sem consectetuer libero luctus adipiscing.
 >
 >     return shell_exec("echo $input | $markdown_script");
 
->>>>>>> blockquotes
 
 
 
